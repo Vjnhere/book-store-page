@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.homepage-background {
+    background-color: #1b1b1b;
+    height: 100vh;
+    padding: 15px;
+}
+
+.homepage-heading {
+    color: #ffffff;
+    font-family: bree serif;
+    font-size: 30px;
+}
+
+.homepage-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+}
+
+.card-image {
+    height: 181px;
+    width: 140px;
+    padding-right: 10px;
+}
+
+.text-heading {
+    color: #183b56;
+    font-family: bree serif;
+    font-size: 15px;
+}
+
+.text-para {
+    font-family: bree serif;
+    color: #06070d;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.text-author {
+    color: #183b56;
+    font-family: bree serif;
+    padding-top: 10px;
+    font-size: 10px;
+}
+
+.button {
+    font-size: 13px;
+}
+
+.text-section {
+    padding-top: 17px;
+}
+
+.recommended-books {
+    color: #ffffff;
+    font-family: bree serif;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.books-image {
+    height: 130px;
+    width: 90px;
+    padding-right: 10px;
+}
+
+.recommended-books-heading {
+    color: #ffffff;
+    font-family: bree serif;
+    font-size: 15px;
+}
+
+.recommended-books-para {
+    font-family: bree serif;
+    color: #ffffff;
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+.recommended-books-card {
+    margin-bottom: 10px;
+}
+
+
+.wings-bg-card {
+    background-color: #1b1b1b;
+    height: 100vh;
+    padding: 20px;
+}
+
+.wings-image {
+    height: 260px;
+    width: 170px;
+}
+
+.wings-title {
+    color: #ffffff;
+    font-family: bree serif;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.wings-para {
+    color: #9aa5b1;
+    font-family: bree serif;
+    font-size: 12px;
+}
+
+.wings-content {
+    color: #e4e7eb;
+    font-family: bree serif;
+    font-size: 11px;
+}
+
+.back-buttons {
+    margin-right: 5px;
+}
